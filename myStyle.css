@@ -20,3 +20,7 @@ p {
     border-radius: 52px;
     border-spacing: 22px;
 }
+
+.link-style {
+    color: rgb(55, 100, 99);
+}
