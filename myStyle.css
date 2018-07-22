@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .text-color {
     color: rgb(48, 95, 196);
 }
@@ -19,4 +20,27 @@ p {
 .border {
     border-radius: 52px;
     border-spacing: 22px;
+=======
+.text-color {
+    color: rgb(48, 95, 196);
+}
+
+h1 {
+    font: italic 200% calibri;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(12, 22, 44);
+}
+
+p {
+    text-align: center;
+    color: rgb(195, 198, 204);
+}
+
+.border {
+    border-radius: 52px;
+    border-spacing: 22px;
+>>>>>>> a7ffafb5d09d1535e9fc55be1a28198bd3d0d2ce
 }
