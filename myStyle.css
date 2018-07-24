@@ -1,5 +1,5 @@
 .text-color {
-    color: rgb(48, 95, 196);
+    color: rgba(128, 125, 125, 0.589);
 }
 
 h1 {
@@ -13,7 +13,7 @@ body {
 
 p {
     text-align: center;
-    color: rgb(195, 198, 204);
+    color: rgba(100, 101, 102, 0.63);
 }
 
 .border {
@@ -22,5 +22,5 @@ p {
 }
 
 .link-style {
-    color: rgb(55, 100, 99);
+    color: rgb(110, 195, 252);
 }
